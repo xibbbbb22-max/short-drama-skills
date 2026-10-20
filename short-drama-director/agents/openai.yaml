@@ -1,0 +1,4 @@
+interface:
+  display_name: "短剧导演与分镜"
+  short_description: "将已有剧本转成可制作的分镜、角色与画风规范及逐镜头生成提示词"
+  default_prompt: "请用 $short-drama-director 把这份剧本转成角色设定、分镜表和逐镜头生成提示词，并核对总时长。"

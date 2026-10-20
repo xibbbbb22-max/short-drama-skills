@@ -1,0 +1,4 @@
+interface:
+  display_name: "短剧作品介绍与路演"
+  short_description: "基于短剧已有内容撰写片名、作品简介或路演稿并保留事实与版本"
+  default_prompt: "请用 $short-drama-pitch，根据这版短剧成片和真实制作记录，写一份一分钟作品路演稿。"

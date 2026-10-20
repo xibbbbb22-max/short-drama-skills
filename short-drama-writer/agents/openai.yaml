@@ -1,0 +1,4 @@
+interface:
+  display_name: "短剧编剧"
+  short_description: "将职场素材改编为有冲突和反转的短剧，控制人物、场景与对白时长"
+  default_prompt: "请用 $short-drama-writer 将我提供的素材改编为符合目标时长和赛道要求的短剧剧本。"
